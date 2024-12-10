@@ -4,38 +4,38 @@ Motorola Moto Z (griffin/sheridan-p3b)
 
 INFO:
 
-deviceinfo_dtb="qcom/msm8996-sheridan-p3b.dtb"
-msm8996-sheridan-p3b.dtb - DTB created during kernel comilaton:
-...
-Building modules, stage 2.
-  MODPOST 0 modules
-  DTC     arch/arm64/boot/dts/qcom/msm8996-griffin-p3b.dtb
-  DTC     arch/arm64/boot/dts/qcom/msm8996-sheridan-p1b.dtb
-  DTC     arch/arm64/boot/dts/qcom/msm8996-sheridan-p3b.dtb
-  DTC     arch/arm64/boot/dts/qcom/msm8996pro-griffin-p3b.dtb
-  DTC     arch/arm64/boot/dts/qcom/msm8996-sheridan-p2c.dtb
-  DTC     arch/arm64/boot/dts/qcom/msm8996pro-sheridan-p3b.dtb
-  DTC     arch/arm64/boot/dts/qcom/msm8996pro-sheridan-p3a.dtb
-  DTC     arch/arm64/boot/dts/qcom/msm8996-princeton-p1.dtb
-  DTC     arch/arm64/boot/dts/qcom/msm8996-wabash-p1.dtb
-  DTC     arch/arm64/boot/dts/qcom/msm8996pro-griffin-p3a.dtb
-  DTC     arch/arm64/boot/dts/qcom/msm8996-griffin-p1b.dtb
-  DTC     arch/arm64/boot/dts/qcom/msm8996pro-wabash-p1.dtb
-  DTC     arch/arm64/boot/dts/qcom/msm8996-sheridan-p3a.dtb
-  DTC     arch/arm64/boot/dts/qcom/msm8996-griffin-p2c.dtb
-  DTC     arch/arm64/boot/dts/qcom/msm8996-griffin-p3a.dtb
-  DTC     arch/arm64/boot/dts/qcom/msm8996-griffin-p2a.dtb
-  DTC     arch/arm64/boot/dts/qcom/msm8996-princeton-p2.dtb
-  DTC     arch/arm64/boot/dts/qcom/msm8996-sheridan-p1a.dtb
-  DTC     arch/arm64/boot/dts/qcom/msm8996pro-griffin-p2a.dtb
-  DTC     arch/arm64/boot/dts/qcom/msm8996pro-sheridan-p2c.dtb
-  DTC     arch/arm64/boot/dts/qcom/msm8996-griffin-p1a.dtb
-  GZIP    arch/arm64/boot/Image.gz
-  CAT     arch/arm64/boot/Image.gz-dtb
-...
-
-
-
+deviceinfo_dtb="qcom/msm8996-sheridan-p3b.dtb"  
+msm8996-sheridan-p3b.dtb - DTB created during kernel comilaton:  
+...  
+Building modules, stage 2.  
+  MODPOST 0 modules  
+  DTC     arch/arm64/boot/dts/qcom/msm8996-griffin-p3b.dtb  
+  DTC     arch/arm64/boot/dts/qcom/msm8996-sheridan-p1b.dtb  
+  DTC     arch/arm64/boot/dts/qcom/msm8996-sheridan-p3b.dtb  
+  DTC     arch/arm64/boot/dts/qcom/msm8996pro-griffin-p3b.dtb  
+  DTC     arch/arm64/boot/dts/qcom/msm8996-sheridan-p2c.dtb  
+  DTC     arch/arm64/boot/dts/qcom/msm8996pro-sheridan-p3b.dtb  
+  DTC     arch/arm64/boot/dts/qcom/msm8996pro-sheridan-p3a.dtb  
+  DTC     arch/arm64/boot/dts/qcom/msm8996-princeton-p1.dtb  
+  DTC     arch/arm64/boot/dts/qcom/msm8996-wabash-p1.dtb  
+  DTC     arch/arm64/boot/dts/qcom/msm8996pro-griffin-p3a.dtb  
+  DTC     arch/arm64/boot/dts/qcom/msm8996-griffin-p1b.dtb  
+  DTC     arch/arm64/boot/dts/qcom/msm8996pro-wabash-p1.dtb  
+  DTC     arch/arm64/boot/dts/qcom/msm8996-sheridan-p3a.dtb  
+  DTC     arch/arm64/boot/dts/qcom/msm8996-griffin-p2c.dtb  
+  DTC     arch/arm64/boot/dts/qcom/msm8996-griffin-p3a.dtb  
+  DTC     arch/arm64/boot/dts/qcom/msm8996-griffin-p2a.dtb  
+  DTC     arch/arm64/boot/dts/qcom/msm8996-princeton-p2.dtb  
+  DTC     arch/arm64/boot/dts/qcom/msm8996-sheridan-p1a.dtb  
+  DTC     arch/arm64/boot/dts/qcom/msm8996pro-griffin-p2a.dtb  
+  DTC     arch/arm64/boot/dts/qcom/msm8996pro-sheridan-p2c.dtb  
+  DTC     arch/arm64/boot/dts/qcom/msm8996-griffin-p1a.dtb  
+  GZIP    arch/arm64/boot/Image.gz  
+  CAT     arch/arm64/boot/Image.gz-dtb  
+...  
+  
+  
+  
 boot.img-dtb - extracted from stock boot
 boot.img-dtb: data
 binwalk boot.img-dtb 
